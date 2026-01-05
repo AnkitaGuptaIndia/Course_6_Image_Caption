@@ -1,0 +1,123 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNd8+mG4pNIC24DAYfgTxUf",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AnkitaGuptaIndia/Course_6_Image_Caption/blob/main/notebooks/Image_Caption_BLIP_1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "in1bWaZjjqU3"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8x1Uk1opjoF6",
+        "outputId": "9c8747f6-416e-4f75-c56c-96311517e119"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Cloning into 'Course_6_Image_Caption'...\n",
+            "remote: Enumerating objects: 9, done.\u001b[K\n",
+            "remote: Counting objects: 100% (9/9), done.\u001b[K\n",
+            "remote: Compressing objects: 100% (7/7), done.\u001b[K\n",
+            "remote: Total 9 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)\u001b[K\n",
+            "Receiving objects: 100% (9/9), 151.93 KiB | 11.69 MiB/s, done.\n",
+            "Resolving deltas: 100% (1/1), done.\n"
+          ]
+        }
+      ],
+      "source": [
+        "!git clone https://github.com/AnkitaGuptaIndia/Course_6_Image_Caption.git"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "%cd Course_6_Image_Caption"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "7om60d0Jjr2-",
+        "outputId": "8f8920a9-15dc-4b00-c8ef-8b1f299f197e"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "/content/Course_6_Image_Caption\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!ls"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "dJPX_TgJjxYe",
+        "outputId": "6ca36ecb-c0f3-4fea-c697-78baf5073934"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "image_1.jpg  README.md\trequirements.txt\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "q3JIrcO4jyXF"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
